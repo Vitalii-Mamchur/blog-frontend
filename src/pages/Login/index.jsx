@@ -20,8 +20,8 @@ export const Login = () => {
     formState: { errors, isValid },
   } = useForm({
     defaultValues: {
-      email: 'test@test.ua',
-      password: '1234567',
+      email: 'mou5e@test.ua',
+      password: '12345',
     },
     mode: 'onChange',
   });
